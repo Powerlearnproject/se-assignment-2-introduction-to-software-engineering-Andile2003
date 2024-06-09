@@ -12,17 +12,21 @@ What is software engineering, and how does it differ from traditional programmin
 Software engineering is descipline that involves the systematic development of software product through well defined processes, methodologies and principles. It emphasizes the use of engineering principles and practices to ensure that software systems are reliable and meet the needs of users and stakeholders. Traditional programming refers to the act of writing code to implement specific functionalities within a software system. This programming may lack the structured processes methodologies and considerations for scapablity that are intergral to software engineering. (Chat gpt and slides)
 Software Development Life Cycle (SDLC):
 
+
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 The Software Development Life Cycle is a framework that describes the stages involved in the development of software from its start to its end. It has phases which are Requirement analysis in this phase the detailed requirements are gathered and documented. Functional and non-functional requirement are identified. The second phase Design where architecture and systems design are created based on the requirements. Data structures, algorithms and interphases are defined. The third phase is the Implementation which is when code is written and the software is built according to the design specifications. The forth phase is Testing where conducting various tests to ensure the software meets quality standards and functional requirements, detects and issues are identified. The fifth phase is Deployment where software is released to users or customers, Deploment plans and rollback procedures are prepared. The sixth and the last phase is  Maintenance which provides ongoing support, updates and enhancements to the software after deployment. (Chat gpt and slides)
 Agile vs. Waterfall Models:
+
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Agile model is interactive and incremental approach focused on the flexibility, collaboration and responding chande. Waterfall model has a sequantial approach with istinct phase flowing towards like a waterfall. According to approach of these models, waterfall model is less flexible to changes once phase is completed whilst agile model emphasizes flexibility and adapability. Waterfall model limit collaboration between stakeholders and development teams whilst agile model promotes collaboration and communication among cross-functional teams. Waterfall models emphasizes extenssive upfornt documentation including detailed requirements whilst the Agile model values working software over comprehensive documentation. (Chat gpt)
 Requirements Engineering:
 
+
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 It is the process of eliciting, documenting, validating and managing requirements throughout the software development lifecycle. It is a crucial aspect aspect of both Agile and Waterfall models, ensuring that the software development process starts with a clear understanding of what needs to be built and why. Requirement engineering is a critical aspect of the software development lifecycle, ensuring that software projects are successfully delivered on time, within budget, and to the satisfaction of stakeholders. It helps bridge the gap between user expectations and software implementation, leading to the development of high-quality software systems. (Chat gpt and slides)
 Software Design Principles:
+
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Modularity in software design refers to the practice of breaking down system into smaller, self-contained module or component each responsible for a specific functionality or feature. These modules are designed to be independent of one another, with well defined interfaces that allow them to interact with each other while hiding their internal working. Modularity improves maintanability and scalability of software systems. The maintaiability has isolation of changes, code reusability and encapsulation. In scapability there is ease of extension, parallel development and resource allocation. (Chat gpt and slides)
@@ -50,4 +54,4 @@ Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+Submit your completed assignment by [due date]
